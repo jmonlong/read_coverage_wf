@@ -1,0 +1,5 @@
+{
+  "read_coverage.BAM": "test/reads.sorted.bam",
+  "read_coverage.BAM_INDEX": "test/reads.sorted.bam.bai",
+  "read_coverage.BIN_SIZE": 100
+}
